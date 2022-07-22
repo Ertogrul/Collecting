@@ -1,0 +1,8 @@
+C:\Users\Ertoğrul HATEMOĞLU\Desktop\C Dersleri\C#\Basic\Basic\bin\Debug\Basic.exe.config
+C:\Users\Ertoğrul HATEMOĞLU\Desktop\C Dersleri\C#\Basic\Basic\bin\Debug\Basic.exe
+C:\Users\Ertoğrul HATEMOĞLU\Desktop\C Dersleri\C#\Basic\Basic\bin\Debug\Basic.pdb
+C:\Users\Ertoğrul HATEMOĞLU\Desktop\C Dersleri\C#\Basic\Basic\obj\Debug\Basic.csproj.AssemblyReference.cache
+C:\Users\Ertoğrul HATEMOĞLU\Desktop\C Dersleri\C#\Basic\Basic\obj\Debug\Basic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ertoğrul HATEMOĞLU\Desktop\C Dersleri\C#\Basic\Basic\obj\Debug\Basic.csproj.CoreCompileInputs.cache
+C:\Users\Ertoğrul HATEMOĞLU\Desktop\C Dersleri\C#\Basic\Basic\obj\Debug\Basic.exe
+C:\Users\Ertoğrul HATEMOĞLU\Desktop\C Dersleri\C#\Basic\Basic\obj\Debug\Basic.pdb
